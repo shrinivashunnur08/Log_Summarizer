@@ -79,6 +79,9 @@ streamlit run main.py
 
 ---
 
+## Generated Output 
+<img width="1914" height="794" alt="Screenshot 2025-09-03 155058" src="https://github.com/user-attachments/assets/81a619e5-6e26-43e5-adf0-ca1c2eca704a" />
+
 ## Notes
 
 - Make sure Ollama CLI is installed and accessible via full path in the code.  
